@@ -93,7 +93,7 @@
   <!-- Line 1 (0s start; repeats every 30s) -->
   <g clip-path="url(#clip1)">
     <text x="40" y="40" fill="url(#neon)" font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="700">
-      👇 ISHAN-X MD BETA WHATSAPP BOT DEPLOYMENT 👇
+      👇 ISHAN-X BETA WHATSAPP BOT DEPLOYMENT 👇
     </text>
   </g>
   <animate xlink:href="#r1" attributeName="width" values="0;520;0" dur="6s" begin="0s;30s;60s" repeatCount="1" fill="freeze"/>
