@@ -6,14 +6,14 @@ ______
 ___ 
 
 <p align="center">
-  <a href="https://github.com/MRSHABAN45" target="_blank">
-    <img src="./ISHAN/dev-gold-mini.svg" width="300" alt="Developer — MR SHABAN (Gold 3D)">
+  <a href="https://github.com/ishanxmd" target="_blank">
+    <img src="./ISHAN/dev-gold-mini.svg" width="300" alt="Developer — ISHAN-X (Gold 3D)">
   </a>
 </p>
 
   
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029Vb6aq4cCHDygiEqJZl0S" target="_blank">
+  <a href="https://whatsapp.com/channel/0029Vb7eEOGLY6dBNzl2IH0" target="_blank">
     <img src="./ISHAN/channel-update.svg" width="350" alt="Bot Updating — WhatsApp Channel | Join Fast">
   </a>
 </p>
