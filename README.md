@@ -29,34 +29,34 @@ ___
 -------------
 
 <p align="center">
-<img src="Shaban/feature-bot.svg" alt="Feature Bot" width="900"/>
+<img src="ISHAN/feature-bot.svg" alt="Feature Bot" width="900"/>
   
 <p align="center">
-<img src="Shaban/license.svg" alt="License" width="200"/>
+<img src="ISHAN/license.svg" alt="License" width="200"/>
 
 --------------
 
 <p align="center">
-<img src="Shaban/maintenance.svg" alt="Maintenance" width="120"/>
+<img src="ISHAN/maintenance.svg" alt="Maintenance" width="120"/>
 
 
  <p align="center">
   <a href="https://github.com/MRSHABAN45/SHABAN-MD/fork" target="_blank">
-    <img src="Shaban/forkstar-holo.svg" width="180" alt="Fork Star Bot Repo"/>
+    <img src="ISHAN/forkstar-holo.svg" width="180" alt="Fork Star Bot Repo"/>
   </a>
 </p>
 
 
 <p align="center">
   <a href="https://smd-pair.zone.id/" target="_blank">
-    <img src="./Shaban/paircode-link.svg" width="195" alt="PAIR_CODE – Device Session ID">
+    <img src="./ISHAN/paircode-link.svg" width="195" alt="PAIR_CODE – Device Session ID">
   </a>
 </p>
 
 -------------
 
 <p align="center">
-  <img src="./Shaban/deployment.svg" width="600" alt="SHABAN MD — News Ticker Typing">
+  <img src="./ISHAN/deployment.svg" width="600" alt="ISHAN-X MD BETA— News Ticker Typing">
 </p>
 
 <div align="center">
@@ -142,7 +142,7 @@ jobs:
 > 🔔 Stay Connected For Updates Feature Drops And Tutorials!
 
 <a href="https://youtube.com/@mrshaban282?si=ZVANSbKM0yajAbl_" target="_blank">
-  <img src="Shaban/youtube.svg" alt="YouTube" width="250"/>
+  <img src="ISHAN/youtube.svg" alt="YouTube" width="250"/>
 </a>
 
 <p align="center">
@@ -153,7 +153,7 @@ jobs:
 
 <div style="background-color: #000000; border-left: 5px solid #ff00ff; padding: 10px; border-radius: 0 15px 15px 0; box-shadow: 0 0 15px #ff00ff;">
   <h3 style="color: #00ffff; font-family: 'Orbitron', sans-serif;">DISCLAIMER</h3>
-  <p style="color: #ffffff;">This Bot Is Not Affiliated With WhatsApp Inc. Use At Your Own Risk Misuse May Result In Account Bans</p>
+  <p style="color: #ffffff;">This Bot Is Not Affiliated With WhatsApp Inc. Use At Your Own Whatsapp BOT</p>
 </div>
 
 
@@ -172,4 +172,4 @@ jobs:
 
 
 <p align="center">
-<img src="Shaban/nolove.svg" alt="NoLove" width="250"/>
+<img src="ISHAN/nolove.svg" alt="NoLove" width="250"/>
