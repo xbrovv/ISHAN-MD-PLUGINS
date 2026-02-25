@@ -57,7 +57,7 @@
 
   <!-- Title text -->
   <text x="50%" y="90" text-anchor="middle" font-size="42" font-family="Segoe UI, Verdana, sans-serif" fill="url(#rainbow)">
-    ⪨☬𓊈𒆜 ISHAN-X BETA 𒆜𓊉☬⪩
+    ☬𓊈𒆜 ISHAN-X BETA 𒆜𓊉☬
     <animateTransform attributeName="transform" type="scale" values="1;1.03;1" dur="3s" repeatCount="indefinite"/>
   </text>
 
