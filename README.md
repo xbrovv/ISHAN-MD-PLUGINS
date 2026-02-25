@@ -2,7 +2,7 @@
   
 ______
 
-[![ISHAN](https://raw.githubusercontent.com/MRSHABAN45/SHABAN-MD/main/ISHAN/mr.svg)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O)
+[![ISHAN](https://raw.githubusercontent.com/xbrovv/ISHAN-MD-PLUGINS/refs/heads/main/ISHAN/mr.svg)](https://whatsapp.com/channel/0029Vb7eEOGLY6dBNzl2IH0)
 ___ 
 
 <p align="center">
